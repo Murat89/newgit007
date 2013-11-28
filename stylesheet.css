@@ -1,0 +1,20 @@
+h1 {
+	text-align:center;
+	color:white;
+	font-size:35px;
+	background-color:#3B5998;
+	height:100px;
+	width: 1335px;
+}
+body {
+	background-color:#E7EBF2;
+}
+img {
+	height: 250px;
+	width: 500px;
+	border: 1px solid black;
+}
+a {
+	text-decoration: none;
+	color: purple;
+}
